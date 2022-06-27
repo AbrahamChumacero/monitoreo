@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1656301321562,
+  "timestamp": 1656318069745,
   "index": "https://abrahamchumacero.github.io/monitoreo/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "https://abrahamchumacero.github.io/monitoreo/favicon.ico",
         "https://abrahamchumacero.github.io/monitoreo/index.html",
-        "https://abrahamchumacero.github.io/monitoreo/main.1166541684c3ec8a.js",
+        "https://abrahamchumacero.github.io/monitoreo/main.2d4c1e2651165c78.js",
         "https://abrahamchumacero.github.io/monitoreo/manifest.webmanifest",
-        "https://abrahamchumacero.github.io/monitoreo/polyfills.a2760431ce93be6a.js",
-        "https://abrahamchumacero.github.io/monitoreo/runtime.8e69c6123117dc5e.js",
-        "https://abrahamchumacero.github.io/monitoreo/styles.44c43563ae9746d3.css"
+        "https://abrahamchumacero.github.io/monitoreo/polyfills.83e24fe8e1b96767.js",
+        "https://abrahamchumacero.github.io/monitoreo/runtime.912241014ce909e7.js",
+        "https://abrahamchumacero.github.io/monitoreo/styles.e06dc10731b3447a.css"
       ],
       "patterns": []
     },
@@ -36,7 +36,11 @@
         "https://abrahamchumacero.github.io/monitoreo/assets/icons/icon-384x384.png",
         "https://abrahamchumacero.github.io/monitoreo/assets/icons/icon-512x512.png",
         "https://abrahamchumacero.github.io/monitoreo/assets/icons/icon-72x72.png",
-        "https://abrahamchumacero.github.io/monitoreo/assets/icons/icon-96x96.png"
+        "https://abrahamchumacero.github.io/monitoreo/assets/icons/icon-96x96.png",
+        "https://abrahamchumacero.github.io/monitoreo/assets/icons/marker.png",
+        "https://abrahamchumacero.github.io/monitoreo/layers-2x.9859cd1231006a4a.png",
+        "https://abrahamchumacero.github.io/monitoreo/layers.ef6db8722c2c3f9a.png",
+        "https://abrahamchumacero.github.io/monitoreo/marker-icon.d577052aa271e13f.png"
       ],
       "patterns": []
     }
@@ -51,13 +55,17 @@
     "https://abrahamchumacero.github.io/monitoreo/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "https://abrahamchumacero.github.io/monitoreo/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://abrahamchumacero.github.io/monitoreo/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://abrahamchumacero.github.io/monitoreo/assets/icons/marker.png": "e92c9da0f542ae8e0895f48337766c6383e50b84",
     "https://abrahamchumacero.github.io/monitoreo/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://abrahamchumacero.github.io/monitoreo/index.html": "e07ebcfe486dda7982801d036c46e25c2794aced",
-    "https://abrahamchumacero.github.io/monitoreo/main.1166541684c3ec8a.js": "9335b4f6858b3116a5905c2925b6da9041d83bec",
+    "https://abrahamchumacero.github.io/monitoreo/index.html": "e95c064ee408b3ca9e29448d8d9ed540fdb76652",
+    "https://abrahamchumacero.github.io/monitoreo/layers-2x.9859cd1231006a4a.png": "152a162333e46d24f9d89f566312fc0c64011dee",
+    "https://abrahamchumacero.github.io/monitoreo/layers.ef6db8722c2c3f9a.png": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
+    "https://abrahamchumacero.github.io/monitoreo/main.2d4c1e2651165c78.js": "d27566d83668a8365ce6779567aae39cd042cea1",
     "https://abrahamchumacero.github.io/monitoreo/manifest.webmanifest": "aae9e5771513f56477297cc6bcf9b158f995b9b9",
-    "https://abrahamchumacero.github.io/monitoreo/polyfills.a2760431ce93be6a.js": "2efb620c8776344d3db378767528049910ff8109",
-    "https://abrahamchumacero.github.io/monitoreo/runtime.8e69c6123117dc5e.js": "9b1a4e85e9db367e96a5bbaf01adb9ccd4175de1",
-    "https://abrahamchumacero.github.io/monitoreo/styles.44c43563ae9746d3.css": "343ed1f9cad1fffcd002a7dcae7efa32a5cfe33d"
+    "https://abrahamchumacero.github.io/monitoreo/marker-icon.d577052aa271e13f.png": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
+    "https://abrahamchumacero.github.io/monitoreo/polyfills.83e24fe8e1b96767.js": "aa7d887b97149728f6bdc79cf8d06f2cbceb48bb",
+    "https://abrahamchumacero.github.io/monitoreo/runtime.912241014ce909e7.js": "d790256306c5f3bf0556b35458c53da68897cd64",
+    "https://abrahamchumacero.github.io/monitoreo/styles.e06dc10731b3447a.css": "c357d9d302e141bb6c038713e3d8be2c425d2fc6"
   },
   "navigationUrls": [
     {
