@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1656325973102,
+  "timestamp": 1656358641203,
   "index": "https://abrahamchumacero.github.io/monitoreo/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://abrahamchumacero.github.io/monitoreo/favicon.ico",
         "https://abrahamchumacero.github.io/monitoreo/index.html",
-        "https://abrahamchumacero.github.io/monitoreo/main.0d862bc7c152d0a1.js",
+        "https://abrahamchumacero.github.io/monitoreo/main.dfeb412abc8d8f93.js",
         "https://abrahamchumacero.github.io/monitoreo/manifest.webmanifest",
         "https://abrahamchumacero.github.io/monitoreo/polyfills.83e24fe8e1b96767.js",
         "https://abrahamchumacero.github.io/monitoreo/runtime.912241014ce909e7.js",
@@ -57,10 +57,10 @@
     "https://abrahamchumacero.github.io/monitoreo/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://abrahamchumacero.github.io/monitoreo/assets/icons/marker.png": "e92c9da0f542ae8e0895f48337766c6383e50b84",
     "https://abrahamchumacero.github.io/monitoreo/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://abrahamchumacero.github.io/monitoreo/index.html": "984181382e66bfadf0de225a981b07a783e2078e",
+    "https://abrahamchumacero.github.io/monitoreo/index.html": "604259440606cf9b89428c2ab072eb3a8622aca7",
     "https://abrahamchumacero.github.io/monitoreo/layers-2x.9859cd1231006a4a.png": "152a162333e46d24f9d89f566312fc0c64011dee",
     "https://abrahamchumacero.github.io/monitoreo/layers.ef6db8722c2c3f9a.png": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
-    "https://abrahamchumacero.github.io/monitoreo/main.0d862bc7c152d0a1.js": "f21e928f1f400fa5ad6312a6da2a93041590c054",
+    "https://abrahamchumacero.github.io/monitoreo/main.dfeb412abc8d8f93.js": "eb00ca8621cba87ea71955dc390162e7cafc5e63",
     "https://abrahamchumacero.github.io/monitoreo/manifest.webmanifest": "aae9e5771513f56477297cc6bcf9b158f995b9b9",
     "https://abrahamchumacero.github.io/monitoreo/marker-icon.d577052aa271e13f.png": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
     "https://abrahamchumacero.github.io/monitoreo/polyfills.83e24fe8e1b96767.js": "aa7d887b97149728f6bdc79cf8d06f2cbceb48bb",
