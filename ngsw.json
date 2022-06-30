@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1656492043098,
+  "timestamp": 1656577071061,
   "index": "https://abrahamchumacero.github.io/monitoreo/index.html",
   "assetGroups": [
     {
@@ -13,12 +13,12 @@
       "urls": [
         "https://abrahamchumacero.github.io/monitoreo/favicon.ico",
         "https://abrahamchumacero.github.io/monitoreo/index.html",
-        "https://abrahamchumacero.github.io/monitoreo/main.6c9b487e9de6bb72.js",
+        "https://abrahamchumacero.github.io/monitoreo/main.f996725b510ebeb2.js",
         "https://abrahamchumacero.github.io/monitoreo/manifest.webmanifest",
         "https://abrahamchumacero.github.io/monitoreo/polyfills.83e24fe8e1b96767.js",
         "https://abrahamchumacero.github.io/monitoreo/runtime.912241014ce909e7.js",
         "https://abrahamchumacero.github.io/monitoreo/scripts.eabcf25e747e91bd.js",
-        "https://abrahamchumacero.github.io/monitoreo/styles.86f3eac76f492ac8.css"
+        "https://abrahamchumacero.github.io/monitoreo/styles.8a9ff35202e002a0.css"
       ],
       "patterns": []
     },
@@ -68,16 +68,16 @@
     "https://abrahamchumacero.github.io/monitoreo/data-table.4f99927ffc558471.ttf": "5c23a1ceb1b1d37844a864c02cd97b145e6243dd",
     "https://abrahamchumacero.github.io/monitoreo/data-table.d233a8724a9532b6.woff": "d4582b40484b4ee1fd334a5577fd945e804484f9",
     "https://abrahamchumacero.github.io/monitoreo/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://abrahamchumacero.github.io/monitoreo/index.html": "1bb4f68c1a729e1505df0a21738be938ea32557a",
+    "https://abrahamchumacero.github.io/monitoreo/index.html": "2fab8e2c87c5fef1c5016c5b0bf828ece628a9b3",
     "https://abrahamchumacero.github.io/monitoreo/layers-2x.9859cd1231006a4a.png": "152a162333e46d24f9d89f566312fc0c64011dee",
     "https://abrahamchumacero.github.io/monitoreo/layers.ef6db8722c2c3f9a.png": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
-    "https://abrahamchumacero.github.io/monitoreo/main.6c9b487e9de6bb72.js": "c98d5c7b37259239f82d50fe142f00346a120102",
+    "https://abrahamchumacero.github.io/monitoreo/main.f996725b510ebeb2.js": "d7f7f9f34aeca03dc99ced8f42fa998546fac5a1",
     "https://abrahamchumacero.github.io/monitoreo/manifest.webmanifest": "aae9e5771513f56477297cc6bcf9b158f995b9b9",
     "https://abrahamchumacero.github.io/monitoreo/marker-icon.d577052aa271e13f.png": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
     "https://abrahamchumacero.github.io/monitoreo/polyfills.83e24fe8e1b96767.js": "aa7d887b97149728f6bdc79cf8d06f2cbceb48bb",
     "https://abrahamchumacero.github.io/monitoreo/runtime.912241014ce909e7.js": "d790256306c5f3bf0556b35458c53da68897cd64",
     "https://abrahamchumacero.github.io/monitoreo/scripts.eabcf25e747e91bd.js": "98f0880886ea31c92a177e84ace94ba28682471f",
-    "https://abrahamchumacero.github.io/monitoreo/styles.86f3eac76f492ac8.css": "1b4cd8080dd12666778fab756868a5450f1ecfae"
+    "https://abrahamchumacero.github.io/monitoreo/styles.8a9ff35202e002a0.css": "9dc4c68eb2c64f3b80f49e2ab503a46129f421b4"
   },
   "navigationUrls": [
     {
