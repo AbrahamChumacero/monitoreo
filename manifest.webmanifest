@@ -1,6 +1,6 @@
 {
-  "name": "monitoreo-clima",
-  "short_name": "monitoreo-clima",
+  "name": "Estación Climatologica UCB",
+  "short_name": "Estación Climatologica UCB",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
